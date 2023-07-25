@@ -6,4 +6,4 @@
 2. Change settings of `TreeMapStructure`
 3. Play Scene
 
- <img src="./images/example.png" style="display:block;   margin-left: auto; margin-right: auto;"/> <br>
+ <img src="./example.png" style="display:block;   margin-left: auto; margin-right: auto;"/> <br>
